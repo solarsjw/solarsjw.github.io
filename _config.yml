@@ -94,9 +94,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "손지원(Son Ji Won)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "딥 러닝을 연구하는 한 사람입니다."
   location         : "Somewhere"
   email            :
   links:
